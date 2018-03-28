@@ -6,7 +6,7 @@ body {
 	background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
-    font-family: avenir;
+    font-family: avenir, Arial;
     font-size: 17px;
     font-weight: 500;
 }
@@ -138,7 +138,7 @@ input {
 		#index_title {
 			font-size: 50px;
 	    	color: #ffde00;
-	    	font-family: avenir_next;
+	    	font-family: avenir_next, Arial;
 	    	letter-spacing: 3px;
 	    	display: none;
 		}
@@ -148,7 +148,7 @@ input {
 		#index_title {
 			font-size: 110px;
 	    	color: #ffde00;
-	    	font-family: avenir_next;
+	    	font-family: avenir_next, Arial;
 	    	letter-spacing: 10px;
 	    	display: none;
 		}
